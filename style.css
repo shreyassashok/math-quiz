@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:royalblue;
+}
+.logIn{
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
+#logInButton{
+    width: 500px;
+}
